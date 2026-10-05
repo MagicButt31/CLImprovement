@@ -1,0 +1,43 @@
+[
+    {
+     "name": "dih curls", 
+     "place": 0,
+     "work": 
+        [
+            {
+                "dih": 1, 
+                "weight": [45, 45, 45], 
+                "rep": [12, 10, 8]
+            }, 
+            {
+                "dih": 2, 
+                "weight": [50, 50, 50], 
+                "rep": [12, 10, 8]
+            }
+        ]
+    }, 
+    {
+     "name": "hip thrusts", 
+     "place": 1,
+     "work": 
+     [
+        {
+            "dih": 1, 
+            "weight": [45, 45, 45], 
+            "rep": [12, 10, 8]
+        }
+     ]
+    },
+    {
+        "name": "dihs 2", 
+        "place": 2,
+        "work": 
+        [
+            {
+                "dih": 1, 
+                "weight": [45, 45, 45], 
+                "rep": [12, 10, 8]
+            }
+        ]
+    }
+]
