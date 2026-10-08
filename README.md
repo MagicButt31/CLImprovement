@@ -20,17 +20,16 @@ But also, whenever you use the command /apps in this case, you get to see what y
 ```shell
 Functions of tasks:
 
-add tasks: literally just adds tasks to save
-view tasks: view tasks that have been made
-clear all tasks: removes every single task made
-clear one task: clears one task at a time
-complete task: completes tasks
+add <task>: literally just adds tasks to save
+delete all tasks: removes every single task made
+clear <task>: clears one task at a time
+complete <task>: completes tasks
 ```
 These let you do what it says you can do.
 
-To start using tasks, enter 'add tasks'. This will show you
+To start using tasks, enter 'add <tasks>'. This will show you
 ```shell
-What task do you want to add (put in '/finish' to finish)?
+When is your task due (format mm/dd/yyyy, and words are fine)?
 ```
 Of course, you have to add tasks. Firstly, enter the name of the task, and then it'll ask you for the task due date. Repeat this until all of your tasks are written down. Once you're satisfied with the tasks you have, enter /finish to finish.
 
